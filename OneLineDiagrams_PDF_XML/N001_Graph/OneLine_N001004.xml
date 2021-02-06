@@ -1,0 +1,2552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim16#">
+   <cim:Diagram rdf:ID="SingleLineDiagramHVMV_N001004">
+      <cim:IdentifiedObject.mRID>SingleLineDiagramHVMV_N001004</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>SingleLineDiagramHVMV_N001004</cim:IdentifiedObject.name>
+   </cim:Diagram>
+   <cim:DiagramObject rdf:ID="Object_1_HV">
+      <cim:IdentifiedObject.mRID>Object_1_HV</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_1_HV</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>HVObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>true</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_1_HV_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_1_HV"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>7.9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>39.9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Object_1_HV_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_1_HV"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>38.1</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>39.9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Object_1_HV_point3">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_1_HV"/>
+      <cim:DiagramObjectPoint.sequenceNumber>2</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>38.1</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>50.1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Object_1_HV_point4">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_1_HV"/>
+      <cim:DiagramObjectPoint.sequenceNumber>3</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>7.9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>50.1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_2">
+      <cim:IdentifiedObject.mRID>Object_2</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_2</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_2_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_2"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>37</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>35</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_3">
+      <cim:IdentifiedObject.mRID>Object_3</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_3</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_3_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_3"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>35</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_4">
+      <cim:IdentifiedObject.mRID>Object_4</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_4</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_4_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_4"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>23</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_5">
+      <cim:IdentifiedObject.mRID>Object_5</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_5</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_5_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_5"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_6">
+      <cim:IdentifiedObject.mRID>Object_6</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_6</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_6_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_6"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_7">
+      <cim:IdentifiedObject.mRID>Object_7</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_7</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_7_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_7"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>23</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_8">
+      <cim:IdentifiedObject.mRID>Object_8</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_8</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_8_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_8"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_9">
+      <cim:IdentifiedObject.mRID>Object_9</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_9</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_9_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_9"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>27</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_10">
+      <cim:IdentifiedObject.mRID>Object_10</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_10</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_10_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_10"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>29</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_11">
+      <cim:IdentifiedObject.mRID>Object_11</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_11</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_11_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_11"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_12">
+      <cim:IdentifiedObject.mRID>Object_12</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_12</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_12_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_12"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>27</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_13">
+      <cim:IdentifiedObject.mRID>Object_13</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_13</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_13_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_13"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_14">
+      <cim:IdentifiedObject.mRID>Object_14</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_14</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_14_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_14"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>33</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_15">
+      <cim:IdentifiedObject.mRID>Object_15</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_15</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_15_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_15"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_16">
+      <cim:IdentifiedObject.mRID>Object_16</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_16</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_16_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_16"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_17">
+      <cim:IdentifiedObject.mRID>Object_17</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_17</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_17_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_17"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>3</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_18">
+      <cim:IdentifiedObject.mRID>Object_18</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_18</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_18_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_18"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>11</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_19">
+      <cim:IdentifiedObject.mRID>Object_19</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_19</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_19_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_19"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>13</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_20">
+      <cim:IdentifiedObject.mRID>Object_20</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_20</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_20_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_20"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>11</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_21">
+      <cim:IdentifiedObject.mRID>Object_21</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_21</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_21_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_21"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_22">
+      <cim:IdentifiedObject.mRID>Object_22</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_22</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_22_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_22"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>7</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_23">
+      <cim:IdentifiedObject.mRID>Object_23</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_23</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_23_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_23"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>15</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_24">
+      <cim:IdentifiedObject.mRID>Object_24</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_24</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_24_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_24"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>17</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_25">
+      <cim:IdentifiedObject.mRID>Object_25</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_25</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_25_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_25"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_26">
+      <cim:IdentifiedObject.mRID>Object_26</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_26</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_26_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_26"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>21</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_27">
+      <cim:IdentifiedObject.mRID>Object_27</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_27</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_27_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_27"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>17</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_28">
+      <cim:IdentifiedObject.mRID>Object_28</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_28</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_28_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_28"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>15</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_29">
+      <cim:IdentifiedObject.mRID>Object_29</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_29</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_29_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_29"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>13</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_30">
+      <cim:IdentifiedObject.mRID>Object_30</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_30</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_30_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_30"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_31">
+      <cim:IdentifiedObject.mRID>Object_31</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_31</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_31_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_31"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>27</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_32">
+      <cim:IdentifiedObject.mRID>Object_32</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_32</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_32_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_32"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>25</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_33">
+      <cim:IdentifiedObject.mRID>Object_33</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_33</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_33_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_33"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>5</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_34">
+      <cim:IdentifiedObject.mRID>Object_34</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_34</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_34_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_34"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>33</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_35">
+      <cim:IdentifiedObject.mRID>Object_35</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_35</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_35_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_35"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>31</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_36">
+      <cim:IdentifiedObject.mRID>Object_36</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_36</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_36_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_36"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_37">
+      <cim:IdentifiedObject.mRID>Object_37</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_37</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_37_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_37"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_38">
+      <cim:IdentifiedObject.mRID>Object_38</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_38</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_38_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_38"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_39">
+      <cim:IdentifiedObject.mRID>Object_39</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_39</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_39_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_39"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>27</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_40">
+      <cim:IdentifiedObject.mRID>Object_40</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_40</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_40_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_40"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>25</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_41">
+      <cim:IdentifiedObject.mRID>Object_41</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_41</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_41_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_41"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>13</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_42">
+      <cim:IdentifiedObject.mRID>Object_42</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_42</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_42_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_42"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>15</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_43">
+      <cim:IdentifiedObject.mRID>Object_43</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_43</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_43_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_43"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>3</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_44">
+      <cim:IdentifiedObject.mRID>Object_44</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_44</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_44_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_44"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>1</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_45">
+      <cim:IdentifiedObject.mRID>Object_45</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_45</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_45_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_45"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>55</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_46">
+      <cim:IdentifiedObject.mRID>Object_46</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_46</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_46_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_46"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_47">
+      <cim:IdentifiedObject.mRID>Object_47</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_47</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_47_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_47"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_48">
+      <cim:IdentifiedObject.mRID>Object_48</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_48</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_48_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_48"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_49">
+      <cim:IdentifiedObject.mRID>Object_49</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_49</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_49_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_49"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_50">
+      <cim:IdentifiedObject.mRID>Object_50</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_50</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_50_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_50"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_51">
+      <cim:IdentifiedObject.mRID>Object_51</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_51</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_51_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_51"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>13</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_52">
+      <cim:IdentifiedObject.mRID>Object_52</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_52</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_52_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_52"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>69</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_53">
+      <cim:IdentifiedObject.mRID>Object_53</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_53</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_53_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_53"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>71</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_54">
+      <cim:IdentifiedObject.mRID>Object_54</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_54</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_54_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_54"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>67</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_55">
+      <cim:IdentifiedObject.mRID>Object_55</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_55</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_55_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_55"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>65</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_56">
+      <cim:IdentifiedObject.mRID>Object_56</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_56</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_56_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_56"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>73</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_57">
+      <cim:IdentifiedObject.mRID>Object_57</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_57</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_57_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_57"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>57</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_58">
+      <cim:IdentifiedObject.mRID>Object_58</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_58</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_58_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_58"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>57</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_59">
+      <cim:IdentifiedObject.mRID>Object_59</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_59</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_59_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_59"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>61</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_60">
+      <cim:IdentifiedObject.mRID>Object_60</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_60</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_60_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_60"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_61">
+      <cim:IdentifiedObject.mRID>Object_61</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_61</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_61_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_61"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_62">
+      <cim:IdentifiedObject.mRID>Object_62</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_62</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_62_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_62"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>15</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_63">
+      <cim:IdentifiedObject.mRID>Object_63</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_63</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_63_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_63"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>43</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_64">
+      <cim:IdentifiedObject.mRID>Object_64</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_64</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_64_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_64"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>51</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_65">
+      <cim:IdentifiedObject.mRID>Object_65</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_65</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_65_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_65"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>53</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_66">
+      <cim:IdentifiedObject.mRID>Object_66</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_66</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_66_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_66"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>55</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_67">
+      <cim:IdentifiedObject.mRID>Object_67</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_67</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_67_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_67"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>57</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_68">
+      <cim:IdentifiedObject.mRID>Object_68</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_68</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_68_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_68"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>59</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_69">
+      <cim:IdentifiedObject.mRID>Object_69</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_69</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_69_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_69"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>49</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_70">
+      <cim:IdentifiedObject.mRID>Object_70</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_70</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_70_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_70"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>47</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_71">
+      <cim:IdentifiedObject.mRID>Object_71</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_71</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_71_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_71"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_72">
+      <cim:IdentifiedObject.mRID>Object_72</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_72</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_72_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_72"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_73">
+      <cim:IdentifiedObject.mRID>Object_73</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_73</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_73_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_73"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>63</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_74">
+      <cim:IdentifiedObject.mRID>Object_74</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_74</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_74_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_74"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>61</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_75">
+      <cim:IdentifiedObject.mRID>Object_75</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_75</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_75_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_75"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>43</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_76">
+      <cim:IdentifiedObject.mRID>Object_76</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_76</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_76_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_76"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_77">
+      <cim:IdentifiedObject.mRID>Object_77</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_77</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_77_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_77"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>41</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_78">
+      <cim:IdentifiedObject.mRID>Object_78</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_78</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_78_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_78"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>47</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Object_79">
+      <cim:IdentifiedObject.mRID>Object_79</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Object_79</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>OrthogonalObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Object_79_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Object_79"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="BreakerObject_1">
+      <cim:IdentifiedObject.mRID>BreakerObject_1</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>BreakerObject_1</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>FeederHeadBreakerObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="BreakerObject_1_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#BreakerObject_1"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>37</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>39.9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="BreakerObject_2">
+      <cim:IdentifiedObject.mRID>BreakerObject_2</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>BreakerObject_2</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>FeederHeadBreakerObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="BreakerObject_2_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#BreakerObject_2"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>39.9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="BreakerObject_3">
+      <cim:IdentifiedObject.mRID>BreakerObject_3</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>BreakerObject_3</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>FeederHeadBreakerObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="BreakerObject_3_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#BreakerObject_3"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>7.9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="BreakerObject_4">
+      <cim:IdentifiedObject.mRID>BreakerObject_4</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>BreakerObject_4</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>FeederHeadBreakerObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="BreakerObject_4_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#BreakerObject_4"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>50.1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="BreakerObject_5">
+      <cim:IdentifiedObject.mRID>BreakerObject_5</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>BreakerObject_5</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>FeederHeadBreakerObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="BreakerObject_5_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#BreakerObject_5"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>38.1</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="BreakerObject_6">
+      <cim:IdentifiedObject.mRID>BreakerObject_6</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>BreakerObject_6</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>FeederHeadBreakerObject</cim:IdentifiedObject.description>
+      <cim:DiagramObject.isPolygon>false</cim:DiagramObject.isPolygon>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="BreakerObject_6_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#BreakerObject_6"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>38.1</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_1_2">
+      <cim:IdentifiedObject.mRID>Section_1_2</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_1_2</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_2_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_2"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>37</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>45</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_2_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_2"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>37</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>35</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_1_3">
+      <cim:IdentifiedObject.mRID>Section_1_3</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_1_3</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_3_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_3"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>45</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_3_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_3"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>35</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_1_43">
+      <cim:IdentifiedObject.mRID>Section_1_43</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_1_43</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_43_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_43"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_43_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_43"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>3</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_1_45">
+      <cim:IdentifiedObject.mRID>Section_1_45</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_1_45</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_45_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_45"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>45</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_45_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_45"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>55</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_1_63">
+      <cim:IdentifiedObject.mRID>Section_1_63</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_1_63</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_63_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_63"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_63_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_63"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>43</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_1_75">
+      <cim:IdentifiedObject.mRID>Section_1_75</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_1_75</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_75_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_75"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_1_75_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_1_75"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>43</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_3_14">
+      <cim:IdentifiedObject.mRID>Section_3_14</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_3_14</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_3_14_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_3_14"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>35</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_3_14_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_3_14"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>33</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_5_4">
+      <cim:IdentifiedObject.mRID>Section_5_4</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_5_4</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_5_4_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_5_4"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_5_4_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_5_4"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>23</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_5_42">
+      <cim:IdentifiedObject.mRID>Section_5_42</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_5_42</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_5_42_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_5_42"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_5_42_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_5_42"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>15</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_6_7">
+      <cim:IdentifiedObject.mRID>Section_6_7</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_6_7</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_6_7_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_6_7"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_6_7_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_6_7"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>23</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_6_8">
+      <cim:IdentifiedObject.mRID>Section_6_8</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_6_8</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_6_8_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_6_8"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_6_8_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_6_8"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_7_26">
+      <cim:IdentifiedObject.mRID>Section_7_26</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_7_26</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_7_26_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_7_26"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>23</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_7_26_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_7_26"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>21</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_8_37">
+      <cim:IdentifiedObject.mRID>Section_8_37</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_8_37</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_8_37_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_8_37"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_8_37_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_8_37"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_9_6">
+      <cim:IdentifiedObject.mRID>Section_9_6</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_9_6</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_9_6_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_9_6"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>27</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_9_6_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_9_6"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_10_9">
+      <cim:IdentifiedObject.mRID>Section_10_9</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_10_9</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_10_9_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_10_9"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>29</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_10_9_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_10_9"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>27</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_11_10">
+      <cim:IdentifiedObject.mRID>Section_11_10</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_11_10</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_11_10_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_11_10"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_11_10_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_11_10"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>29</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_11_40">
+      <cim:IdentifiedObject.mRID>Section_11_40</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_11_40</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_11_40_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_11_40"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_11_40_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_11_40"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>25</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_13_12">
+      <cim:IdentifiedObject.mRID>Section_13_12</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_13_12</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_13_12_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_13_12"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_13_12_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_13_12"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>27</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_13_38">
+      <cim:IdentifiedObject.mRID>Section_13_38</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_13_38</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_13_38_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_13_38"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_13_38_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_13_38"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_14_11">
+      <cim:IdentifiedObject.mRID>Section_14_11</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_14_11</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_14_11_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_14_11"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>33</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_14_11_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_14_11"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_15_79">
+      <cim:IdentifiedObject.mRID>Section_15_79</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_15_79</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>OrthogonalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_15_79_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_15_79"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_15_79_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_15_79"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_17_16">
+      <cim:IdentifiedObject.mRID>Section_17_16</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_17_16</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_17_16_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_17_16"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>3</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_17_16_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_17_16"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_18_15">
+      <cim:IdentifiedObject.mRID>Section_18_15</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_18_15</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_18_15_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_18_15"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>11</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_18_15_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_18_15"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_19_20">
+      <cim:IdentifiedObject.mRID>Section_19_20</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_19_20</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_19_20_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_19_20"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>13</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_19_20_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_19_20"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>11</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_20_21">
+      <cim:IdentifiedObject.mRID>Section_20_21</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_20_21</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_20_21_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_20_21"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>11</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_20_21_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_20_21"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_21_22">
+      <cim:IdentifiedObject.mRID>Section_21_22</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_21_22</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_21_22_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_21_22"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>9</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_21_22_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_21_22"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>7</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_22_33">
+      <cim:IdentifiedObject.mRID>Section_22_33</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_22_33</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_22_33_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_22_33"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>7</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_22_33_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_22_33"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>5</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_23_19">
+      <cim:IdentifiedObject.mRID>Section_23_19</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_23_19</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_23_19_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_23_19"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>15</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_23_19_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_23_19"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>13</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_24_23">
+      <cim:IdentifiedObject.mRID>Section_24_23</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_24_23</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_24_23_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_24_23"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>17</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_24_23_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_24_23"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>15</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_25_24">
+      <cim:IdentifiedObject.mRID>Section_25_24</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_25_24</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_25_24_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_25_24"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_25_24_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_25_24"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>17</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_25_32">
+      <cim:IdentifiedObject.mRID>Section_25_32</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_25_32</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_25_32_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_25_32"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_25_32_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_25_32"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>25</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_26_25">
+      <cim:IdentifiedObject.mRID>Section_26_25</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_26_25</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_26_25_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_26_25"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>21</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_26_25_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_26_25"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_27_28">
+      <cim:IdentifiedObject.mRID>Section_27_28</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_27_28</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_27_28_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_27_28"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>17</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_27_28_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_27_28"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>15</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_28_29">
+      <cim:IdentifiedObject.mRID>Section_28_29</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_28_29</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_28_29_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_28_29"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>15</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_28_29_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_28_29"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>13</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_29_18">
+      <cim:IdentifiedObject.mRID>Section_29_18</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_29_18</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_29_18_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_29_18"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>13</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_29_18_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_29_18"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>11</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_30_27">
+      <cim:IdentifiedObject.mRID>Section_30_27</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_30_27</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_30_27_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_30_27"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_30_27_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_30_27"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>17</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_31_30">
+      <cim:IdentifiedObject.mRID>Section_31_30</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_31_30</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_31_30_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_31_30"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>27</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_31_30_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_31_30"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_32_31">
+      <cim:IdentifiedObject.mRID>Section_32_31</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_32_31</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_32_31_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_32_31"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>25</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_32_31_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_32_31"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>27</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>19</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_33_17">
+      <cim:IdentifiedObject.mRID>Section_33_17</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_33_17</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_33_17_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_33_17"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>5</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_33_17_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_33_17"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>3</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_35_34">
+      <cim:IdentifiedObject.mRID>Section_35_34</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_35_34</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_35_34_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_35_34"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>31</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_35_34_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_35_34"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>33</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_36_35">
+      <cim:IdentifiedObject.mRID>Section_36_35</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_36_35</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_36_35_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_36_35"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_36_35_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_36_35"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>31</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_37_5">
+      <cim:IdentifiedObject.mRID>Section_37_5</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_37_5</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_37_5_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_37_5"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_37_5_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_37_5"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_39_36">
+      <cim:IdentifiedObject.mRID>Section_39_36</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_39_36</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_39_36_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_39_36"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>27</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_39_36_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_39_36"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_40_39">
+      <cim:IdentifiedObject.mRID>Section_40_39</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_40_39</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_40_39_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_40_39"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>25</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_40_39_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_40_39"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>27</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>31</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_41_13">
+      <cim:IdentifiedObject.mRID>Section_41_13</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_41_13</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_41_13_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_41_13"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>13</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_41_13_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_41_13"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_42_41">
+      <cim:IdentifiedObject.mRID>Section_42_41</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_42_41</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_42_41_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_42_41"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>15</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_42_41_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_42_41"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>13</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>25</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_43_44">
+      <cim:IdentifiedObject.mRID>Section_43_44</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_43_44</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_43_44_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_43_44"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>3</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_43_44_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_43_44"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>1</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_45_58">
+      <cim:IdentifiedObject.mRID>Section_45_58</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_45_58</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_45_58_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_45_58"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>55</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_45_58_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_45_58"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>57</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_47_46">
+      <cim:IdentifiedObject.mRID>Section_47_46</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_47_46</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_47_46_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_47_46"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_47_46_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_47_46"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_48_47">
+      <cim:IdentifiedObject.mRID>Section_48_47</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_48_47</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_48_47_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_48_47"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_48_47_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_48_47"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_48_55">
+      <cim:IdentifiedObject.mRID>Section_48_55</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_48_55</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_48_55_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_48_55"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_48_55_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_48_55"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>65</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_50_49">
+      <cim:IdentifiedObject.mRID>Section_50_49</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_50_49</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_50_49_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_50_49"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_50_49_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_50_49"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>9</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_51_50">
+      <cim:IdentifiedObject.mRID>Section_51_50</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_51_50</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_51_50_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_51_50"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>13</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_51_50_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_51_50"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>11</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_52_53">
+      <cim:IdentifiedObject.mRID>Section_52_53</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_52_53</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_52_53_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_52_53"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>69</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_52_53_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_52_53"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>71</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_53_56">
+      <cim:IdentifiedObject.mRID>Section_53_56</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_53_56</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_53_56_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_53_56"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>71</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_53_56_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_53_56"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>73</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_54_52">
+      <cim:IdentifiedObject.mRID>Section_54_52</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_54_52</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_54_52_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_54_52"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>67</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_54_52_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_54_52"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>69</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_55_54">
+      <cim:IdentifiedObject.mRID>Section_55_54</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_55_54</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_55_54_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_55_54"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>65</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_55_54_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_55_54"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>67</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_58_57">
+      <cim:IdentifiedObject.mRID>Section_58_57</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_58_57</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_58_57_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_58_57"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>57</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_58_57_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_58_57"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>21</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>57</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_58_60">
+      <cim:IdentifiedObject.mRID>Section_58_60</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_58_60</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_58_60_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_58_60"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>57</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_58_60_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_58_60"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_59_48">
+      <cim:IdentifiedObject.mRID>Section_59_48</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_59_48</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_59_48_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_59_48"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>61</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_59_48_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_59_48"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>63</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_60_59">
+      <cim:IdentifiedObject.mRID>Section_60_59</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_60_59</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_60_59_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_60_59"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_60_59_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_60_59"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>61</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_60_61">
+      <cim:IdentifiedObject.mRID>Section_60_61</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_60_61</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_60_61_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_60_61"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>19</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_60_61_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_60_61"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_61_62">
+      <cim:IdentifiedObject.mRID>Section_61_62</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_61_62</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_61_62_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_61_62"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>17</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_61_62_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_61_62"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>15</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_62_51">
+      <cim:IdentifiedObject.mRID>Section_62_51</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_62_51</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_62_51_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_62_51"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>15</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_62_51_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_62_51"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>13</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>59</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_63_71">
+      <cim:IdentifiedObject.mRID>Section_63_71</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_63_71</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_63_71_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_63_71"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>43</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_63_71_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_63_71"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_64_65">
+      <cim:IdentifiedObject.mRID>Section_64_65</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_64_65</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_64_65_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_64_65"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>51</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_64_65_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_64_65"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>53</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_65_66">
+      <cim:IdentifiedObject.mRID>Section_65_66</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_65_66</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_65_66_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_65_66"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>53</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_65_66_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_65_66"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>55</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_66_67">
+      <cim:IdentifiedObject.mRID>Section_66_67</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_66_67</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_66_67_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_66_67"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>55</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_66_67_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_66_67"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>57</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_67_68">
+      <cim:IdentifiedObject.mRID>Section_67_68</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_67_68</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_67_68_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_67_68"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>57</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_67_68_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_67_68"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>59</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_68_74">
+      <cim:IdentifiedObject.mRID>Section_68_74</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_68_74</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_68_74_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_68_74"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>59</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_68_74_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_68_74"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>61</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_69_64">
+      <cim:IdentifiedObject.mRID>Section_69_64</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_69_64</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_69_64_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_69_64"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>49</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_69_64_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_69_64"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>51</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_70_69">
+      <cim:IdentifiedObject.mRID>Section_70_69</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_70_69</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_70_69_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_70_69"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>47</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_70_69_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_70_69"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>49</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_71_70">
+      <cim:IdentifiedObject.mRID>Section_71_70</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_71_70</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_71_70_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_71_70"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_71_70_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_71_70"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>47</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_71_72">
+      <cim:IdentifiedObject.mRID>Section_71_72</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_71_72</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_71_72_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_71_72"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_71_72_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_71_72"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>49</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_74_73">
+      <cim:IdentifiedObject.mRID>Section_74_73</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_74_73</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_74_73_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_74_73"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>61</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_74_73_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_74_73"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>63</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>47</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_75_76">
+      <cim:IdentifiedObject.mRID>Section_75_76</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_75_76</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_75_76_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_75_76"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>43</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_75_76_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_75_76"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_76_77">
+      <cim:IdentifiedObject.mRID>Section_76_77</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_76_77</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_76_77_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_76_77"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_76_77_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_76_77"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>41</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_76_78">
+      <cim:IdentifiedObject.mRID>Section_76_78</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_76_78</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>NormalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_76_78_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_76_78"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>45</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_76_78_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_76_78"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>47</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>43</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObject rdf:ID="Section_79_16">
+      <cim:IdentifiedObject.mRID>Section_79_16</cim:IdentifiedObject.mRID>
+      <cim:IdentifiedObject.name>Section_79_16</cim:IdentifiedObject.name>
+      <cim:IdentifiedObject.description>OrthogonalSection</cim:IdentifiedObject.description>
+      <cim:DiagramObject.Diagram rdf:resource="#SingleLineDiagramHVMV_N001004"/>
+   </cim:DiagramObject>
+   <cim:DiagramObjectPoint rdf:ID="Section_79_16_point1">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_79_16"/>
+      <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>29</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+   <cim:DiagramObjectPoint rdf:ID="Section_79_16_point2">
+      <cim:DiagramObjectPoint.DiagramObject rdf:resource="#Section_79_16"/>
+      <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+      <cim:DiagramObjectPoint.xPosition>23</cim:DiagramObjectPoint.xPosition>
+      <cim:DiagramObjectPoint.yPosition>1</cim:DiagramObjectPoint.yPosition>
+   </cim:DiagramObjectPoint>
+</rdf:RDF>
